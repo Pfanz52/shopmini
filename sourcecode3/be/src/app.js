@@ -15,6 +15,15 @@ const path = require("path");
 // Initialize app
 const app = express();
 
+// ======= STRIPE WEBHOOK DUMMY ROUTE (CREATE THIS FOR NOW) =======
+app.post(
+  "/api/stripe/webhook",
+  express.raw({ type: "application/json" }), // Stripe yêu cầu raw body
+  (req, res) => {
+    res.status(200).send("Stripe webhook OK");
+  }
+);
+
 // Set security HTTP headers
 app.use(
   helmet({

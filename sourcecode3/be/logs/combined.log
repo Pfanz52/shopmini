@@ -982,3 +982,37 @@
 2025-11-18 14:28:19 info: Database models loaded successfully.
 2025-11-18 14:28:20 info: ✅ stripe_customer_id column ensured
 2025-11-18 14:28:20 info: Server running in development mode on port 8888
+2025-11-28 22:56:20 error: Unable to connect to the database: password authentication failed for user "postgres"
+2025-11-28 23:33:17 info: Database connection has been established successfully.
+2025-11-28 23:33:17 info: Database models loaded successfully.
+2025-11-28 23:33:17 error: Error adding stripe column:
+2025-11-28 23:33:17 info: Server running in development mode on port 8888
+2025-11-28 23:39:59 info: Database connection has been established successfully.
+2025-11-28 23:39:59 info: Database models loaded successfully.
+2025-11-28 23:39:59 error: Error adding stripe column:
+2025-11-28 23:39:59 info: Server running in development mode on port 8888
+2025-11-28 23:41:13 info: Database connection has been established successfully.
+2025-11-28 23:41:13 info: Database models loaded successfully.
+2025-11-28 23:41:13 error: Error adding stripe column:
+2025-11-28 23:41:13 info: Server running in development mode on port 8888
+2025-11-28 23:42:06 info: Database connection has been established successfully.
+2025-11-28 23:42:06 info: Database models loaded successfully.
+2025-11-28 23:42:06 info: Database tables synchronized successfully (preserving data).
+2025-11-28 23:42:06 info: ✅ stripe_customer_id column ensured
+2025-11-28 23:42:06 info: Server running in development mode on port 8888
+2025-11-28 23:52:14 info: Database connection has been established successfully.
+2025-11-28 23:52:14 info: Database models loaded successfully.
+2025-11-28 23:52:14 info: ✅ stripe_customer_id column ensured
+2025-11-28 23:52:14 info: Server running in development mode on port 8888
+2025-11-30 14:51:19 info: Database connection has been established successfully.
+2025-11-30 14:51:19 info: Database models loaded successfully.
+2025-11-30 14:51:19 info: ✅ stripe_customer_id column ensured
+2025-11-30 14:51:19 info: Server running in development mode on port 8888
+2025-11-30 18:12:45 info: Database connection has been established successfully.
+2025-11-30 18:12:45 info: Database models loaded successfully.
+2025-11-30 18:12:45 info: ✅ stripe_customer_id column ensured
+2025-11-30 18:12:45 info: Server running in development mode on port 8888
+2025-11-30 18:18:28 info: Database connection has been established successfully.
+2025-11-30 18:18:28 info: Database models loaded successfully.
+2025-11-30 18:18:28 info: ✅ stripe_customer_id column ensured
+2025-11-30 18:18:28 info: Server running in development mode on port 8888
